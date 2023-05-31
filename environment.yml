@@ -1,4 +1,4 @@
-name: book
+name: huggingfacebook
 channels:
   - pytorch
   - defaults
